@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0b3845ef-7cb3-4b42-82ff-d0c0a0c75c14",
+            "Value": {
+                "id": "3e238594-6430-476e-8d4d-f1faa28f5983",
+                "resourcePath": "objects\\obj_crosshair\\obj_crosshair.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "16976c60-2a9f-492e-9fb6-099297fedb66",
             "Value": {
                 "id": "6316c2b6-84aa-4063-b5e6-d221f33029c4",
@@ -100,6 +108,14 @@
                 "id": "aa66d9d0-60ad-4691-8a1d-0279867d1bc6",
                 "resourcePath": "views\\75cf4df3-8fdb-49a5-921a-579f354ebc60.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "78974bf5-8971-4424-92b4-83d568b48760",
+            "Value": {
+                "id": "0fcc43bc-4895-41a9-8b2a-e2bdd3004ee7",
+                "resourcePath": "objects\\obj_hole\\obj_hole.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -179,6 +195,14 @@
             "Value": {
                 "id": "33047bb0-0e81-4e4f-9c98-23cbd832e214",
                 "resourcePath": "sprites\\spr_duck_target\\spr_duck_target.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c8dfd9c6-c542-4483-8dcb-5cba26cddb0c",
+            "Value": {
+                "id": "e20293b3-b21f-4b86-9a19-85c3ff7728fd",
+                "resourcePath": "sprites\\spr_GameOver\\spr_GameOver.yy",
                 "resourceType": "GMSprite"
             }
         },
