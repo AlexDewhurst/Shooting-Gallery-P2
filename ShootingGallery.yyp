@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "74882501-eafc-4caa-8aff-c54b67bf2e09",
+            "Value": {
+                "id": "f09a9567-9f02-4893-8941-0631941b7309",
+                "resourcePath": "objects\\obj_score\\obj_score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "75cf4df3-8fdb-49a5-921a-579f354ebc60",
             "Value": {
                 "id": "aa66d9d0-60ad-4691-8a1d-0279867d1bc6",
