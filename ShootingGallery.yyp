@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1f550e1e-1744-41e3-be89-20599bea75c5",
+            "Value": {
+                "id": "67c022bc-d930-4837-9846-38f810b8fc6a",
+                "resourcePath": "objects\\obj_controler\\obj_controler.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2aecdbb6-afb0-4ec1-99a5-278fe8c5dcfc",
             "Value": {
                 "id": "b003cd9a-1db0-49be-a3a7-8e54a49cfa90",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "7e4aa280-1feb-4c26-bcd5-c54488640320",
+            "Value": {
+                "id": "481e2231-1178-479a-88f9-e46fa58ea719",
+                "resourcePath": "objects\\obj_duck_target\\obj_duck_target.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "81aec232-32ac-4c4f-8196-2bc322c05df7",
             "Value": {
                 "id": "2fad8d14-cde6-4178-82fe-4b4bf478dd1b",
@@ -170,8 +186,16 @@
             "Key": "9ed13b3c-32fa-470f-9e8b-91e74921deef",
             "Value": {
                 "id": "9738a9f2-5dff-4e73-ba0b-12005acfaa57",
-                "resourcePath": "rooms\\rm_game\\rm_game.yy",
+                "resourcePath": "rooms\\rm_main\\rm_main.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "afd6f959-e48c-4420-9c84-060948732279",
+            "Value": {
+                "id": "ab49d7fa-551f-4e7c-a522-33f7aeec9f2f",
+                "resourcePath": "timelines\\timeline_rm_main\\timeline_rm_main.yy",
+                "resourceType": "GMTimeline"
             }
         },
         {
@@ -220,6 +244,14 @@
                 "id": "e20293b3-b21f-4b86-9a19-85c3ff7728fd",
                 "resourcePath": "sprites\\spr_GameOver\\spr_GameOver.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cbcac3b3-18fe-4f3b-8c2b-1fff11adf20c",
+            "Value": {
+                "id": "ef22016b-db0c-4d8f-99d8-1d3567df0e49",
+                "resourcePath": "sounds\\sound_shot\\sound_shot.yy",
+                "resourceType": "GMSound"
             }
         },
         {
