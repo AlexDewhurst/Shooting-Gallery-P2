@@ -5,16 +5,6 @@
     "name": "obj_duck",
     "eventList": [
         {
-            "id": "f18f6c73-942e-433f-9122-b7769f0e64ca",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "151662a8-2c73-41ff-9885-f15f58252664"
-        },
-        {
             "id": "98ecf9f0-23da-47e8-864e-73d87aece812",
             "modelName": "GMEvent",
             "mvc": "1.0",
